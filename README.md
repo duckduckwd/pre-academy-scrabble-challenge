@@ -1,5 +1,9 @@
 # Scrabble Challenge
 
+## IMPORTANT INFORMATION
+
+This repository is for setting a challenge for Junior Software Engineers and does not constitute a reflection of the skills or practices of Ed Wright.
+
 Welcome to the Scrabble challenge!
 
 ## Learning Objectives
